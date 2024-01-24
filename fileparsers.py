@@ -24,7 +24,6 @@ def parse_values(path):
         for line in file:
             line = line.rstrip()
             values = line.split("|")
-            print(values)
-            value_dictionary[values[0]] = values[1]
+            value_dictionary[values[0]] = int(values[1])
 
     return value_dictionary
