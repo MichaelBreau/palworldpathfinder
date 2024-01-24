@@ -1,0 +1,137 @@
+Blazamut|10
+Suzaku Aqua|30
+Suzaku|50
+Shadowbeak|60
+Necromus|70
+Paladius|80
+Jetragon|90
+Frostallion Noct|100
+Frostallion|120
+Cryolinx|130
+Orserk|140
+Astegon|150
+Helzephyr|190
+Grizzbolt|200
+Lyleen Noct|210
+Beakon|220
+Ice Reptyro|230
+Pyrin Noct|240
+Lyleen|250
+Menasting|260
+Relaxaurus Lux|270
+Relaxaurus|280
+Mammorest Cryst|290
+Mammorest|300
+Jormuntide|310
+Jormuntide Ignis|315
+Reptyro|320
+Elizabee|330
+Warsect|340
+Quivern|350
+Pyrin|360
+Faleris|370
+Ragnahawk|380
+Mossanda Lux|390
+Sweepa|410
+Nitewing|420
+Mossanda|430
+Ice Kingpaca|440
+Sibelyx|450
+Wumpo|460
+Kingpaca|470
+Wumpo Botan|480
+Cinnamoth|490
+Azurobe|500
+Grintale|510
+Penking|520
+Elphidran Aqua|530
+Elphidran|540
+Surfent Terra|550
+Surfent|560
+Anubis|570
+Incineram Noct|580
+Incineram|590
+Vanwyrm Cryst|620
+Bushi|640
+Vanwyrm|660
+Blazehowl Noct|670
+Univolt|680
+Katress|700
+Blazehowl|710
+Rayhound|740
+Tombat|750
+Foxcicle|760
+Petallia|780
+Arsox|790
+Chillet|800
+Dinossom Lux|810
+Dinossom|820
+Kitsun|830
+Broncherry Aqua|840
+Digtoise|850
+Broncherry|860
+Celaray|870
+Reindrix|880
+Melpaca|890
+Dumud|895
+Eikthyrdeer Terra|900
+Mozzzarina|910
+Eikthyrdeer|920
+Caprity|930
+Lovander|940
+Loupmoon|950
+Fenglope|980
+Verdash|990
+Robinquill Terra|1000
+Felbat|1010
+Robinquill|1020
+Galeclaw|1030
+Gorirat|1040
+Vaelet|1050
+Direhowl|1060
+Beegarde|1070
+Cawgnito|1080
+Gobfin|1090
+Gobfin Ignis|1100
+Lunaris|1110
+Leezpunk|1120
+Rushoar|1130
+Leezpunk Ignis|1140
+Maraith|1150
+Rooby|1155
+Wixen|1160
+Nox|1180
+Woolipop|1190
+Dazzi|1210
+Fuddler|1220
+Daedream|1230
+Gumoss|1240
+Tanzee|1250
+Kelpsea|1260
+Kelpsea Ignis|1270
+Flopie|1280
+Killamari|1290
+Swee|1300
+Ribbuny|1310
+Bristla|1320
+Fuack|1330
+Tocotoco|1340
+Pengullet|1350
+Jolthog Cryst|1360
+Jolthog|1370
+Depresso|1380
+Hoocrates|1390
+Foxparks|1400
+Flambelle|1405
+Sparkit|1410
+Hangyu|1420
+Hangyu Cryst|1422
+Lifmunk|1430
+Mau Cryst|1440
+Vixy|1450
+Cremis|1455
+Cattiva|1460
+Lamball|1470
+Mau|1480
+Teafant|1490
+Chikipi|1500

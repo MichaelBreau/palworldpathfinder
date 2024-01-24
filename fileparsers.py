@@ -13,7 +13,18 @@ def parse_exceptions(path):
             parents.sort()
             parent_string = parents[0] + " " + parents[1]
             exceptions_dictionary[parent_string] = pals[2]
-    
+
     return exceptions_dictionary
 
-parse_exceptions('exceptions.txt')
+def parse_values(path):
+    """Function for parsing breeding power values from txt file with format pal|value per line"""
+
+    value_dictionary = {}
+    with open(path, 'r') as file:
+        for line in file:
+            line = line.rstrip()
+            values = line.split("|")
+            print(values)
+            value_dictionary[values[0]] = values[1]
+
+    return value_dictionary
